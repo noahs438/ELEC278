@@ -1,0 +1,3 @@
+C:/Users/Noahs/CLionProjects/ELEC 278/cmake-build-debug/CMakeFiles/ELEC_278.dir
+C:/Users/Noahs/CLionProjects/ELEC 278/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Noahs/CLionProjects/ELEC 278/cmake-build-debug/CMakeFiles/rebuild_cache.dir
