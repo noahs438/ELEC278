@@ -1,3 +1,6 @@
+// Assignment 2, Q3 - Serhan, Noah
+// Given a binary search tree that may be unbalanced, convert it into an AVL tree that has minimum possible height.
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,6 @@
+// Assignment 2, Q2 - Serhan, Noah
+// Given two binary search trees, return elements of both binary search trees in sorted form.
+
 #include <stdio.h>
 #include <stdlib.h>
 

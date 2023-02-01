@@ -1,3 +1,7 @@
+// Assignment 1, Q2 - Serhan, Noah
+// Create a stack to solve the problem: Given a string containing opening and
+// closing braces, check if it represents a balanced expression or not.
+
 #include <stdio.h>
 
 #define size 30 // Defining the size of the stack (bigger than what is needed)

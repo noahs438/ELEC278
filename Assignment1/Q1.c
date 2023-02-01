@@ -1,3 +1,11 @@
+// Assignment 1, Q1 - Serhan, Noah
+// Define the data structure of a doubly linked list and write functions:
+// 1. void create() to create the list
+// 2. void insertFirst() to insert a new node at the beginning of the list
+// 3. void deleteFirst() to delete the first node of the list
+// 4. void insertPos() to insert a node in the right position
+// 5. void merge() to merge two linked lists
+
 #include <stdio.h>
 #include <stdlib.h>
 

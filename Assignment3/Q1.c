@@ -1,4 +1,7 @@
 // Assignment 3, Q1 - Serhan, Noah
+// Write DateSort() function that sorts an array of dates using quicksort method
+// and main() function that reads an array of dates and outputs the sorted array of
+// dates.
 
 #include <stdio.h>
 #include <stdlib.h>

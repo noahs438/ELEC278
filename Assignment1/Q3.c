@@ -1,3 +1,8 @@
+// Assignment 1, Q3 - Serhan, Noah
+// Given an integer k and a queue of integers, the task is to reverse the order of
+// the first k elements of the queue, leaving the other elements in the same relative
+// order.
+
 #include <stdio.h>
 #include <stdlib.h>
 

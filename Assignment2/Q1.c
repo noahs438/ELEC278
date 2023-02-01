@@ -1,3 +1,6 @@
+// Assignment 2, Q1 - Serhan, Noah
+// Given a binary tree, find the postorder traversal of the tree.
+
 #include <stdio.h>
 #include <stdlib.h>
 

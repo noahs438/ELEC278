@@ -1,4 +1,7 @@
 // Assignment 3, Q2 - Serhan, Noah
+// Use hash table to implement a cache (a cache is a high-speed data storage
+// layer which stores a subset of data, so that future requests for that data are served
+// up faster than is possible by accessing the data's primary storage location).
 
 #include <stdio.h>
 #include <stdlib.h>

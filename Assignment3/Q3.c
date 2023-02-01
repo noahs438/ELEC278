@@ -1,4 +1,10 @@
 // Assignment 3, Q3 - Serhan, Noah
+// Write a function Mothvex() to find a mother vertex in the graph and main()
+// function to create a graph, for example, the graph below, and output the mother
+// vertex in that graph. If the mother vertex of the graph does not exist, output -1. If
+// there are multiple mother vertex, output all of them.
+// A mother vertex in a graph G = (V, E) is a vertex v such that all other vertices in G
+// can be reached by a path from v.
 
 #include <stdio.h>
 #include <stdlib.h>
